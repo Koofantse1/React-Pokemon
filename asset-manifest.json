@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-WalkInClinic/static/css/main.f63c9ece.css",
+    "main.js": "/React-WalkInClinic/static/js/main.f176cfc8.js",
+    "static/js/453.690c8688.chunk.js": "/React-WalkInClinic/static/js/453.690c8688.chunk.js",
+    "index.html": "/React-WalkInClinic/index.html",
+    "main.f63c9ece.css.map": "/React-WalkInClinic/static/css/main.f63c9ece.css.map",
+    "main.f176cfc8.js.map": "/React-WalkInClinic/static/js/main.f176cfc8.js.map",
+    "453.690c8688.chunk.js.map": "/React-WalkInClinic/static/js/453.690c8688.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f63c9ece.css",
+    "static/js/main.f176cfc8.js"
+  ]
+}
